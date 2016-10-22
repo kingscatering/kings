@@ -1,0 +1,50 @@
+Revisions
+gallery - category sa food eg chicken all chicken dito
+
+customize menu - background pic/logoo kasi too plain
+
+gallery food album to menu; lalabas dun yung name ng food
+
+event reservation - block past dates sa calendar
+		- dropdown are too long
+		- start time mismo ng event niyo (parang inote nalang)
+		-  time sakto nalang 
+		- am pm yung time
+		- 9am-8pm start
+		- end time: 12am
+		- php sa mga prices ---
+		- remove fixed sa fixed packages sa food package ----
+		- may isesend si shen na prices update sa set
+
+fixed package - table (header - Name and course)
+	- remove the price
+	- price per head
+
+additional service alisin kasi kasama na siya dun
+
+display at summary yung mga freebies
+
+customize - table form per food type
+	- silhouette design ng food (hanap daw si George)
+	remove fruit salad ---
+	drink - botomless ---
+	orange juice, iced tea - 30php ---
+	four seasons - 60php ---
+	at least 4 categories dapat meron
+
+not logged in - dapat log in first ---
+registration 
+
+nawawala log in sa events
+
+kapag nag back sa conditions nawawala siya
+
+october 25th - magmukhang katiwalaan looking clothes
+october 19th- 100%
+october 11th- 80++
+functionality 
+avail
+design
+features 
+dss
+

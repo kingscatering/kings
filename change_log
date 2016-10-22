@@ -1,0 +1,15 @@
+action changes
+
+-login logout query changed tbl_usr to accounts	
+
+- #(140 - 242) mngacc
+
+- case: 'addadm'
+
+- case: 'del'
+
+
+javascript changes
+- line 7 query tbl_usr to accounts, user to username
+- line 26 query tbl_usr to accounts
+- line 45 query tbl_phone to service_provider
