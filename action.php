@@ -2,7 +2,7 @@
 session_start();
 include 'connect.php';
 include_once("dbCall.php");
-$link = mysqli_connect($db_host,$db_username,$db_pass,$db_name) or die("Error " . mysqli_error($link));
+$link = mysqli_connect($db_host,$db_username,$db_pass,$db_name);
 
 
 $act = $_GET['act'];
