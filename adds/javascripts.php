@@ -2,7 +2,7 @@
 <?php
 include_once'adds/scripts.php';
 include 'connect.php';
-$link = mysqli_connect($db_host,$db_username,$db_pass,$db_name) or die("Error " . mysqli_error($link));
+$link = mysqli_connect($db_host,$db_username,$db_pass,$db_name);
 
 if(isset($_POST["usercheck"])){
 	$usercheck = $_POST['usercheck'];
